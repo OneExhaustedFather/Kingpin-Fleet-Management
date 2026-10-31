@@ -25,7 +25,7 @@ If you identify an asset that does not correctly display in the app, please repo
 Live GPS tracking uses the ATS telemetry plugin, which the installer offers to set up (optional), the GPS tracking is still there just will be slow to update as it'll rely on save data. 
 
 ## Status
-**Alpha.** Expect rough edges. Euro Truck Simulator 2 support may come later.
+**Alpha.** Expect rough edges. ETS2 Drivers, if you like what you see and you want ETS2 to be included let me know.  I don't own ETS2 so I'd have to purchase it and all it's DLC's to make the map correct. 
 
 ## Feedback
 Found a bug or have an idea? Either:
