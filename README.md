@@ -26,6 +26,17 @@ Live GPS tracking uses the ATS telemetry plugin, which the installer offers to s
 **Alpha.** Expect rough edges. Euro Truck Simulator 2 support may come later.
 
 ## Feedback
-Found a bug or have an idea? Open an [issue](https://github.com/OneExhaustedFather/Kingpin-Fleet-Management/issues): what you did, what you expected and what happened. Please don't attach save files.
+Found a bug or have an idea? Either:
+- **Email** `Kingpin.bugreport [at] gmail [dot] com` (no account needed), or
+- open an [issue](https://github.com/OneExhaustedFather/Kingpin-Fleet-Management/issues) if you have a GitHub account.
+
+Please include:
+1. Kingpin version (Settings → About)
+2. What you did
+3. What you expected
+4. What happened instead
+5. A screenshot, if you can
+
+Save files aren't needed. Please don't attach them unless we ask.
 
 Problems with a **modded truck or trailer** in the configurator: use the Report button in the app, or [Kingpin-reports](https://github.com/OneExhaustedFather/Kingpin-reports).
