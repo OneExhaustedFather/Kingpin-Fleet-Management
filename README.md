@@ -29,7 +29,7 @@ Live GPS tracking uses the ATS telemetry plugin, which the installer offers to s
 
 ## Feedback
 Found a bug or have an idea? Either:
-- **Email**     Kingpin.bugreport [at] gmail [dot] com     (no account needed), or
+- **Email**     Kingpin.bugreport @ gmail . com  (no account needed), or
 - open an [issue](https://github.com/OneExhaustedFather/Kingpin-Fleet-Management/issues) if you have a GitHub account.
 
 Please include:
